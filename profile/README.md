@@ -1,15 +1,19 @@
-# IPTO - The Future of AI Data & IP Protection
+Create Protocol is a Decentralised Creative AI Protocol, platform and community focussed on maximal value creation for Creators in AI economy on blockchain through
+V3:
+🎨
+Creative Agents
+Autonomous creative AI agents that learn, evolve, and collaborate to produce groundbreaking artistic expressions.
+🤝
+Human Collaboration
+Seamless integration between human creativity and AI capabilities, fostering unprecedented creative partnerships.
+💫
+Economic Model
+A fair and transparent ecosystem that rewards both human and AI contributions, creating sustainable creative economies.
 
-## 🌟 Revolutionizing Data & IP in the AI Era
 
-IPTO is the world's first personal AI model with integrated DATA tracking, collaboration, and financialization features. We're building the bridge between AI innovation and intellectual property protection.
-
-### 🎯 Our Vision
-Building an ecosystem for the future of IP, Media & Content in the Decentralized AI Era.
-
-### 🚀 Our Mission
-Empowering companies to monetize their content through blockchain-enabled AI innovations.
-
-## Join the Revolution
-
-IPTO is currently inviting investors and partners to join our mission of revolutionizing data and IP management in the AI era. Together, we can build a more sustainable and fair future for AI innovation.
+Existing products and projects include
+Creative Object Model
+Imaginer
+Create Protocol V1 and V2 Console Contracts: Multichain NFT Protocol on EVM compatible chains. This has been used by 20+ dapps in NFT, gaming, RWA, X to earn space
+CreatorConsole: onchain Creative Asset creation & distribution platform (discountinued)
+MercadoNFT Marketplace (discontinued)
